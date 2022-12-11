@@ -1,4 +1,4 @@
-# Rovarspraket_Translator
+# Translator_to_Rovarspraket
 
 C++ program that translate English to Rövarspråket
 
