@@ -1,6 +1,6 @@
 //Date: July-22-2022
 //Name: Oleksandr Shyryayev
-//Description: Rovarspraket language
+//Description: Rövarspråket Translator
 
 #include <iostream>
 #include <vector>
